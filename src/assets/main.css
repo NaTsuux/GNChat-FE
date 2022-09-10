@@ -1,0 +1,18 @@
+@import "./base.css";
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+input::after {
+  padding: 1cm;
+}
